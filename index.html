@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmed & Maha — The Royal Wedding Celebration</title>
+  <meta name="description" content="Request the honor of your presence to celebrate the royal wedding of Ahmed and Maha on Wednesday, November 11, 2026 from 3:00 PM to 6:00 PM at Gladius Hall, Gardenia Club, Cairo.">
+  <meta name="keywords" content="Ahmed, Maha, Wedding Invitation, Gladius Hall, Gardenia Club, Cairo, November 11 2026">
+
+  <!-- Open Graph / WhatsApp Preview -->
+  <meta property="og:title" content="Ahmed & Maha — The Royal Wedding Celebration">
+  <meta property="og:description" content="Request the honor of your presence to celebrate our royal wedding on Wednesday, November 11, 2026 from 3:00 PM to 6:00 PM at Gladius Hall, Gardenia Club, Cairo.">
+  <meta property="og:image" content="hero.png">
+  <meta property="og:type" content="website">
+
+  <!-- Google Fonts: Editorial Serif, Romantic Script & Modern Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@300;400;500;600;700;800&family=Amiri:ital,wght@0,400;0,700;1,400&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Great+Vibes&family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- AOS Animation CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom Modern Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Romantic Wedding Soundtrack (Le Kol Ashiq Watan) -->
+  <audio id="wedding-audio" loop preload="auto">
+    <source src="Le Kol Ashiq Watan.mp3" type="audio/mpeg">
+    <source src="https://cdn.pixabay.com/download/audio/2022/05/16/audio_c2b8316409.mp3?filename=romantic-wedding-piano-110515.mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- Floating Language Switcher & Audio Controller -->
+  <div class="floating-controls">
+    <button id="lang-toggle" class="control-btn lang-btn" title="Switch Language / تغيير اللغة">
+      <i class="fas fa-globe"></i>
+      <span id="lang-label">العربية</span>
+    </button>
+    <button id="audio-toggle" class="control-btn audio-btn" title="Toggle Melody / تشغيل الموسيقى">
+      <i class="fas fa-volume-mute"></i>
+    </button>
+  </div>
+
+  <!-- ==========================================================================
+       ROYAL DARK NAVY ENVELOPE (MATCHING EXACT USER REFERENCE PHOTO)
+       Deep Navy Embossed Peony Relief Paper with Central Organic Molten Ivory Wax Seal
+       ========================================================================== -->
+  <div id="cinematic-intro">
+    <!-- Ambient floating fairy particles in envelope screen -->
+    <div class="intro-ambient-particles">
+      <span class="particle p1"></span>
+      <span class="particle p2"></span>
+      <span class="particle p3"></span>
+      <span class="particle p4"></span>
+      <span class="particle p5"></span>
+      <span class="particle p6"></span>
+    </div>
+
+    <div id="royal-envelope-wrapper" class="royal-envelope-wrapper" data-aos="zoom-in" data-aos-duration="1200">
+      
+      <!-- Inner Royal Invitation Card (Revealed when flaps unfold) -->
+      <div class="envelope-inner-card">
+        <div class="inner-border-frame">
+          <div class="inner-monogram" dir="ltr">A & M</div>
+          <div class="inner-welcome" data-i18n="case_welcome">WELCOME TO OUR WEDDING</div>
+          <div class="inner-names">AHMED & MAHA</div>
+          <div class="inner-date">11 • 11 • 2026</div>
+          <div class="inner-venue" data-i18n="case_venue">Gladius Hall — Gardenia Club<br>ALMAZAH - CAIRO</div>
+          <div class="inner-time-sub" data-i18n="case_time">3:00 PM — 6:00 PM</div>
+        </div>
+      </div>
+
+      <!-- Real Photographic 4-Flap Envelope in Dark Royal Navy with Floral Embossing -->
+      <div class="envelope-photo-base">
+        <img src="assets/envelope-navy.jpg" alt="Dark Navy Royal Wedding Envelope with Wax Seal" class="envelope-real-img">
+      </div>
+
+      <!-- Central Interactive Wax Seal Tap Zone with Pulsing Aura -->
+      <button id="btn-open-invite" class="real-wax-seal-button" title="Tap to Open / اضغط لفتح الدعوة" aria-label="Open Wedding Invitation">
+        <span class="seal-glow-ring"></span>
+        <span class="seal-tap-badge" data-i18n="case_unseal">TAP TO OPEN</span>
+      </button>
+
+    </div>
+  </div>
+
+  <main class="invitation-main-flow">
+
+    <!-- ==========================================================================
+         SECTION 1: IMMERSIVE GRAND PALACE HERO SHOWCASE (AGREED hero.png BACKDROP)
+         Full-bleed majestic architectural scene with gold royal typography & particles
+         ========================================================================== -->
+    <section class="section-palace-hero">
+      <div class="palace-viewport">
+        
+        <!-- Palace Backdrop hero.png with dynamic parallax support -->
+        <div class="palace-backdrop-wrapper">
+          <img src="hero.png" alt="Ahmed & Maha Royal Wedding Palace" class="palace-hero-img" id="hero-palace-image">
+          <div class="palace-hero-vignette"></div>
+        </div>
+
+        <!-- Floating Golden Ambient Sparkles -->
+        <div class="palace-sparkles-container" aria-hidden="true">
+          <span class="sparkle s1">✦</span>
+          <span class="sparkle s2">✧</span>
+          <span class="sparkle s3">✦</span>
+          <span class="sparkle s4">✧</span>
+          <span class="sparkle s5">✦</span>
+          <span class="sparkle s6">✧</span>
+        </div>
+
+        <!-- Floating Golden Typography Over Palace -->
+        <div class="palace-typography-box" data-aos="fade-up" data-aos-duration="1300">
+          
+          <div class="palace-sub-title" data-i18n="hero_wedding_of">THE WEDDING OF</div>
+          
+          <div class="palace-diamond-divider">
+            <span class="p-line"></span>
+            <span class="p-diamond">◇</span>
+            <span class="p-line"></span>
+          </div>
+
+          <h1 class="palace-couple-names" dir="ltr">
+            <span class="p-groom">Ahmed</span>
+            <span class="p-ampersand-wrap">
+              <span class="amp-bar"></span>
+              <span class="amp-char">&</span>
+              <span class="amp-bar"></span>
+            </span>
+            <span class="p-bride">Maha</span>
+          </h1>
+
+          <div class="palace-date-display">
+            <span>11</span>
+            <span class="p-bullet">•</span>
+            <span>11</span>
+            <span class="p-bullet">•</span>
+            <span>2026</span>
+          </div>
+
+          <div class="palace-hours-tag" data-i18n="hero_hours">3:00 PM – 6:00 PM</div>
+
+        </div>
+
+        <!-- Gentle Floating Down Indicator -->
+        <a href="#section-invitation" class="palace-scroll-hint" title="Scroll down">
+          <span class="scroll-arrow-anim"><i class="fas fa-chevron-down"></i></span>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         SECTION 2: BESPOKE LUXURY EDITORIAL INVITATION (WHITE / IVORY THEME)
+         High-Fashion Royal Stationery with Smooth Micro-Interactions
+         ========================================================================== -->
+    <section class="section-white-invitation" id="section-invitation">
+      <div class="invitation-card-container" data-aos="fade-up" data-aos-duration="1200">
+        
+        <div class="luxury-stationery-card">
+          <!-- Fine Gold Double Frame Accent -->
+          <div class="stationery-inner-border">
+            
+            <!-- Royal Monogram Crest -->
+            <div class="editorial-crest" data-aos="zoom-in" data-aos-delay="200">
+              <span class="crest-leaf left">❧</span>
+              <span class="crest-monogram" dir="ltr">A & M</span>
+              <span class="crest-leaf right">❧</span>
+            </div>
+
+            <div class="editorial-sub-lead" data-i18n="together_lead" data-aos="fade-up" data-aos-delay="300">
+              TOGETHER WITH THEIR FAMILIES
+            </div>
+
+            <h2 class="editorial-couple-title" dir="ltr" data-aos="fade-up" data-aos-delay="400">
+              Ahmed & Maha
+            </h2>
+
+            <div class="editorial-save-date" data-i18n="save_date_script" data-aos="fade-up" data-aos-delay="500">
+              Save our Date
+            </div>
+
+            <!-- Polished Editorial Invitation Message -->
+            <p class="editorial-invitation-body" data-i18n="invitation_body" data-aos="fade-up" data-aos-delay="600">
+              REQUEST THE HONOR OF YOUR PRESENCE<br>
+              TO CELEBRATE OUR WEDDING DAY<br>
+              AS WE BEGIN OUR JOURNEY OF LOVE & HAPPINESS<br>
+              YOUR PRESENCE WILL COMPLETE OUR JOY
+            </p>
+
+            <!-- Bespoke High-Fashion Editorial Date Showcase (3:00 PM – 6:00 PM) -->
+            <div class="editorial-date-monument" data-aos="zoom-in" data-aos-delay="700">
+              <div class="ed-col-side">
+                <span class="ed-side-label" data-i18n="date_day_name">WEDNESDAY</span>
+                <div class="ed-thin-rule"></div>
+                <span class="ed-side-sub" data-i18n="date_month">NOVEMBER</span>
+              </div>
+
+              <div class="ed-col-center">
+                <div class="ed-big-num">11</div>
+                <div class="ed-year-sub" data-i18n="date_year">2026</div>
+              </div>
+
+              <div class="ed-col-side">
+                <span class="ed-side-label" data-i18n="date_time_label">TIME</span>
+                <div class="ed-thin-rule"></div>
+                <span class="ed-side-sub ed-time-bold" data-i18n="date_time">3:00 PM – 6:00 PM</span>
+              </div>
+            </div>
+
+            <!-- Reception Tagline -->
+            <div class="editorial-reception-tagline" data-i18n="reception_tagline" data-aos="fade-up" data-aos-delay="800">
+              an evening of love, joyful music & celebration to follow
+            </div>
+
+            <div class="stationery-bottom-flourish">
+              <span class="flourish-bar"></span>
+              <span class="flourish-diamond">✦</span>
+              <span class="flourish-bar"></span>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Torn Paper Edge Divider (White to Dark Navy) -->
+      <div class="torn-divider-bottom">
+        <img src="assets/torn-white-to-navy.svg" alt="Torn Edge" class="torn-svg">
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         SECTION 3: NOVEMBER 2026 CALENDAR & COUNTDOWN (DARK NAVY THEME)
+         ========================================================================== -->
+    <section class="section-navy-calendar">
+      <div class="navy-calendar-container" data-aos="fade-up">
+
+        <div class="calendar-script-save" data-i18n="cal_save">Mark Your Calendar</div>
+        <div class="calendar-month-header" data-i18n="cal_month_header">NOVEMBER 2026</div>
+
+        <!-- Minimalist Date Row with Interactive Heart on 11 -->
+        <div class="minimal-date-selector">
+          <div class="date-digit">8</div>
+          <div class="date-digit">9</div>
+          <div class="date-digit">10</div>
+          <div class="date-digit active-heart-day" id="heart-day-11" title="Ahmed & Maha Royal Wedding Day!">
+            <svg class="heart-ring-svg" viewBox="0 0 60 60">
+              <path d="M 30,14 C 24,4 10,6 8,20 C 6,32 30,50 30,50 C 30,50 54,32 52,20 C 50,6 36,4 30,14 Z" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            <span class="day-number">11</span>
+          </div>
+          <div class="date-digit">12</div>
+          <div class="date-digit">13</div>
+          <div class="date-digit">14</div>
+        </div>
+
+        <!-- Countdown Header -->
+        <div class="countdown-heading" data-i18n="countdown_title">Counting down to our forever...</div>
+
+        <!-- Real-Time Countdown Numbers with Animated Pulse -->
+        <div class="navy-countdown-grid">
+          <div class="count-box">
+            <span class="count-num" id="cal-days">--</span>
+            <span class="count-unit" data-i18n="unit_days">Days</span>
+          </div>
+          <span class="count-sep">:</span>
+          <div class="count-box">
+            <span class="count-num" id="cal-hours">--</span>
+            <span class="count-unit" data-i18n="unit_hours">Hours</span>
+          </div>
+          <span class="count-sep">:</span>
+          <div class="count-box">
+            <span class="count-num" id="cal-mins">--</span>
+            <span class="count-unit" data-i18n="unit_mins">Mins</span>
+          </div>
+          <span class="count-sep">:</span>
+          <div class="count-box">
+            <span class="count-num" id="cal-secs">--</span>
+            <span class="count-unit" data-i18n="unit_secs">Secs</span>
+          </div>
+        </div>
+
+        <!-- Direct Calendar Links (Google & Phone .ics) -->
+        <div class="calendar-btn-row">
+          <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ahmed+%26+Maha+Royal+Wedding+%E2%99%A5&dates=20261111T130000Z/20261111T160000Z&details=We+are+overjoyed+to+celebrate+our+wedding+with+you!+Celebration+hours+from+3%3A00+PM+to+6%3A00+PM+at+Gladius+Hall+-+Gardenia+Club,+El+Thawra+St,+Cairo.&location=Gladius+Hall,+Gardenia+Club,+El+Thawra+St+Ext,+Almazah,+Cairo" 
+             target="_blank" rel="noopener noreferrer" class="btn-cal-action btn-google-cal">
+            <i class="fab fa-google"></i>
+            <span data-i18n="btn_google">Add to Google Calendar</span>
+          </a>
+
+          <button id="btn-add-calendar" class="btn-cal-action btn-apple-cal">
+            <i class="fab fa-apple"></i>
+            <span data-i18n="btn_apple">Save to Apple / Phone (.ics)</span>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Torn Paper Edge Divider (Dark Navy to White) -->
+      <div class="torn-divider-bottom">
+        <img src="assets/torn-navy-to-white.svg" alt="Torn Edge" class="torn-svg">
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         SECTION 4: VENUE & CELEBRATION HOURS & CLOSING NOTE (WHITE / IVORY THEME)
+         Focused on Venue Location and 3:00 PM – 6:00 PM Timing
+         ========================================================================== -->
+    <section class="section-white-venue-program">
+      <div class="venue-program-container" data-aos="fade-up">
+
+        <h2 class="section-editorial-title" data-i18n="venue_header">The Venue</h2>
+
+        <!-- Venue Pill Card -->
+        <div class="venue-pill-card" data-aos="zoom-in" data-aos-duration="1000">
+          <h3 class="venue-hall-title" data-i18n="venue_hall">Gladius Hall</h3>
+          <div class="venue-ballroom-sub" data-i18n="venue_ballroom">GARDENIA CLUB — CHEMICAL WARFARE</div>
+          <p class="venue-address-text" data-i18n="venue_address">
+            Gardenia Complex, Chemical Warfare, El Thawra St Ext, after El Geish Bridge, Almazah, Cairo Governorate 11775
+          </p>
+          <a href="https://www.google.com/maps/search/?api=1&query=%D9%82%D8%A7%D8%B9%D8%A7%D8%AA+%D8%AD%D9%81%D9%84%D8%A7%D8%AA+%D8%AF%D8%A7%D8%B1+%D8%AC%D8%A7%D8%B1%D8%AF%D9%8A%D9%86%D9%8A%D8%A7+%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9+%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9+Cairo" 
+             target="_blank" rel="noopener noreferrer" class="btn-venue-gps">
+            <i class="fas fa-location-arrow"></i>
+            <span data-i18n="btn_gps">Open Live Map & GPS Navigation</span>
+          </a>
+        </div>
+
+        <!-- Embedded Interactive Map Frame -->
+        <div class="map-embed-wrapper" data-aos="fade-up" data-aos-delay="200">
+          <iframe 
+            src="https://www.google.com/maps?q=%D9%82%D8%A7%D8%B9%D8%A7%D8%AA+%D8%AD%D9%81%D9%84%D8%A7%D8%AA+%D8%AF%D8%A7%D8%B1+%D8%AC%D8%A7%D8%B1%D8%AF%D9%8A%D9%86%D9%8A%D8%A7+%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9+%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9&hl=en&z=16&output=embed" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+
+        <!-- Wedding Celebration Hours Highlight (3:00 PM — 6:00 PM) -->
+        <div class="ceremony-hours-card" data-aos="zoom-in" data-aos-delay="300">
+          <div class="ceremony-clock-icon">
+            <i class="far fa-clock"></i>
+          </div>
+          <div class="ceremony-hours-title" data-i18n="hours_title">CELEBRATION HOURS</div>
+          <div class="ceremony-hours-display">
+            <span class="hours-badge">3:00 PM</span>
+            <span class="hours-arrow-separator"><i class="fas fa-arrow-right"></i></span>
+            <span class="hours-badge">6:00 PM</span>
+          </div>
+          <p class="ceremony-hours-note" data-i18n="hours_note">
+            We look forward to welcoming you with joy from 3:00 PM to 6:00 PM
+          </p>
+        </div>
+
+        <!-- Final Warm Closing Signature -->
+        <div class="final-closing-note" data-aos="zoom-in" data-aos-delay="400">
+          <div class="closing-hydrangea-badge">
+            <img src="assets/hydrangea-cluster.svg" alt="Hydrangea" class="badge-hydrangea-img">
+          </div>
+          <div class="closing-text-script" data-i18n="closing_waiting">We eagerly look forward to seeing you! ♥</div>
+          <div class="closing-couple-signature" dir="ltr">Ahmed & Maha</div>
+          <div class="closing-date-signature">11 • 11 • 2026</div>
+        </div>
+
+      </div>
+
+      <!-- Torn Paper Edge Divider (White to Dark Navy Footer) -->
+      <div class="torn-divider-bottom">
+        <img src="assets/torn-white-to-navy.svg" alt="Torn Edge" class="torn-svg">
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Deep Midnight Navy Footer -->
+  <footer class="footer-midnight-navy">
+    <div class="footer-monogram" dir="ltr">A & M</div>
+    <p class="footer-info" data-i18n="footer_info">
+      WEDNESDAY — NOVEMBER 11, 2026<br>
+      CELEBRATION HOURS: 3:00 PM — 6:00 PM<br>
+      Gladius Hall — Gardenia Club<br>
+      ALMAZAH - CAIRO
+    </p>
+  </footer>
+
+  <!-- AOS Animation JS -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <!-- Canvas Confetti Library -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <!-- SweetAlert2 Library -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!-- Custom Interactive Script -->
+  <script src="script.js"></script>
+</body>
+</html>
