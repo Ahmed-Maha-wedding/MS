@@ -1,0 +1,2602 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <defs>
+    <!-- Soft Watercolor Blur Filter -->
+    <filter id="softFlowerGlow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#1E3A8A" flood-opacity="0.18" />
+    </filter>
+
+    <!-- Hydrangea Leaves Gradient -->
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4B7B61" />
+      <stop offset="100%" stop-color="#2D5A43" />
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#softFlowerGlow)">
+    <!-- Leaves behind the blossoms -->
+    <path d="M 80,180 C 30,150 10,210 60,250 C 110,290 140,240 120,200 Z" fill="url(#leafGrad)" opacity="0.8" />
+    <path d="M 420,160 C 470,130 490,190 440,230 C 390,270 360,220 380,180 Z" fill="url(#leafGrad)" opacity="0.8" />
+    <path d="M 230,60 C 250,10 300,15 310,65 C 320,115 260,110 240,80 Z" fill="url(#leafGrad)" opacity="0.7" />
+
+    <!-- ==================== LEFT DEEP BLUE HYDRANGEA HEAD ==================== -->
+    <g id="blueHeadLeft">
+
+    <g transform="translate(129.4, 220.4) scale(0.55)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(113.9, 226.9) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(121.6, 207.8) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(140.4, 208.1) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(142.2, 224.6) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(132.8, 235.0) scale(0.57)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(153.1, 203.5) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(159.9, 215.9) scale(0.57)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(152.2, 236.1) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(140.0, 245.2) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(122.9, 246.9) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(111.3, 238.4) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(103.7, 223.2) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(104.1, 204.9) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(118.4, 196.0) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(136.1, 194.3) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(110.7, 257.4) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(97.4, 245.9) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(88.5, 231.8) scale(0.57)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(86.4, 215.3) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(95.8, 196.1) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(105.0, 188.3) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(121.0, 179.6) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(136.7, 175.8) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(150.9, 186.0) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(162.5, 194.7) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(169.8, 210.9) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(171.4, 224.6) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(167.1, 239.4) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(156.7, 252.8) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(140.6, 261.3) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(122.8, 262.2) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    </g>
+
+    <!-- ==================== RIGHT BLUE & PERIWINKLE HYDRANGEA HEAD ==================== -->
+    <g id="blueHeadRight">
+
+    <g transform="translate(368.9, 201.8) scale(0.75)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(359.9, 212.2) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(354.3, 199.5) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(369.9, 184.8) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(385.0, 194.3) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(380.8, 208.8) scale(0.71)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(354.2, 177.4) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(371.6, 173.7) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(387.0, 181.0) scale(0.71)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(396.9, 196.0) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(396.4, 212.1) scale(0.71)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(386.4, 221.5) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(366.2, 225.0) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(353.4, 221.4) scale(0.57)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(345.5, 204.0) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(345.7, 191.1) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(415.0, 203.3) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(411.2, 213.8) scale(0.75)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(397.8, 227.3) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(386.8, 238.2) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(371.1, 241.2) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(352.3, 238.6) scale(0.75)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(341.3, 227.3) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(331.3, 215.3) scale(0.67)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(328.5, 198.6) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(329.2, 183.9) scale(0.67)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(341.5, 171.4) scale(0.73)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(357.6, 159.0) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(372.7, 158.8) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(389.3, 163.8) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(401.0, 169.8) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(406.4, 187.2) scale(0.57)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(342.9, 245.9) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(328.0, 236.9) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(322.0, 222.0) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(317.1, 208.5) scale(0.71)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(316.3, 191.5) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(320.6, 173.2) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(331.8, 160.5) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(344.5, 152.1) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(361.3, 142.3) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(375.9, 145.6) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(388.9, 151.3) scale(0.59)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(408.8, 157.7) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(416.8, 167.0) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(421.6, 183.7) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(423.5, 200.3) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(425.4, 215.0) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(417.4, 233.7) scale(0.59)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(405.8, 247.4) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(387.0, 251.1) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(372.5, 258.7) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(353.6, 256.8) scale(0.59)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    </g>
+
+    <!-- ==================== TOP RIGHT LIGHT BLUE HYDRANGEA HEAD ==================== -->
+    <g id="blueHeadTopRight">
+
+    <g transform="translate(310.2, 120.4) scale(0.67)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(323.9, 121.5) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(315.8, 134.5) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(298.7, 127.1) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(302.0, 114.7) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(314.3, 106.7) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(337.0, 121.9) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(330.0, 134.1) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(315.6, 145.5) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(303.6, 146.0) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(290.5, 135.4) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(285.2, 121.5) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(286.5, 102.5) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(303.2, 94.9) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(320.1, 95.8) scale(0.56)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(328.6, 106.2) scale(0.58)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(347.2, 118.0) scale(0.53)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(344.4, 133.7) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#1E40AF" stroke="#172554" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#1E3A8A" stroke="#172554" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(339.4, 146.0) scale(0.55)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(322.7, 154.4) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(312.5, 158.1) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(295.8, 154.0) scale(0.52)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(280.0, 146.7) scale(0.54)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(275.9, 137.0) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(270.8, 120.1) scale(0.53)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(276.2, 104.1) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(284.8, 92.2) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(293.5, 85.9) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(307.6, 81.9) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(326.8, 81.8) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(335.1, 91.5) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#60A5FA" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(348.2, 106.8) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#60A5FA" stroke="#3B82F6" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    </g>
+
+    <!-- ==================== CENTER LARGE WHITE / CREAM HYDRANGEA HEAD ==================== -->
+    <g id="whiteHeadCenter">
+
+    <g transform="translate(237.1, 230.6) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(227.8, 225.8) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(243.3, 216.5) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(254.0, 225.6) scale(0.62)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(248.4, 238.7) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(230.8, 238.4) scale(0.67)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(260.4, 249.4) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(246.5, 259.9) scale(0.80)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(228.6, 255.3) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(218.2, 246.7) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(213.5, 226.4) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(221.6, 214.2) scale(0.78)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(232.1, 203.1) scale(0.77)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(252.5, 202.2) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(265.1, 218.4) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(266.4, 232.8) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(220.8, 193.1) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(234.3, 191.0) scale(0.77)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(251.4, 187.1) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(264.8, 197.4) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(275.7, 207.7) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(281.8, 224.1) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(281.7, 244.1) scale(0.71)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(274.8, 256.4) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(260.6, 265.4) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(243.4, 274.7) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(229.9, 268.9) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(216.5, 261.8) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(201.2, 247.5) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(199.7, 232.5) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(199.7, 217.0) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(207.3, 201.2) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(249.1, 286.6) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(229.9, 282.7) scale(0.73)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(215.1, 280.0) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(201.4, 272.4) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(190.1, 259.1) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(187.0, 240.3) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(182.0, 225.2) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(185.5, 210.1) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(197.6, 196.9) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(208.1, 181.4) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(226.8, 177.7) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(243.1, 176.2) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(258.3, 179.4) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(272.1, 182.5) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(287.1, 193.6) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(292.6, 209.8) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(295.3, 223.6) scale(0.68)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(292.2, 242.6) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(290.1, 258.2) scale(0.78)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(278.1, 272.9) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(261.8, 280.3) scale(0.64)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(257.0, 159.9) scale(0.66)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(269.2, 167.5) scale(0.80)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(282.3, 175.0) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(297.5, 187.6) scale(0.75)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(304.8, 202.2) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(307.7, 214.9) scale(0.70)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(312.3, 231.7) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(307.2, 250.2) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(299.7, 265.9) scale(0.69)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(292.9, 276.7) scale(0.72)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(280.0, 289.8) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(264.9, 292.6) scale(0.81)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(247.0, 297.2) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(233.6, 301.3) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(218.5, 297.3) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(203.8, 291.5) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(188.9, 277.4) scale(0.74)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(181.2, 267.7) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(174.3, 252.6) scale(0.79)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(168.7, 237.2) scale(0.76)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(171.0, 217.4) scale(0.77)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(178.3, 201.4) scale(0.63)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(180.7, 191.3) scale(0.61)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(193.1, 176.4) scale(0.60)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F1F5F9" stroke="#64748B" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(208.9, 168.1) scale(0.73)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(222.2, 160.4) scale(0.82)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F1F5F9" stroke="#94A3B8" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    <g transform="translate(236.5, 159.7) scale(0.65)">
+      <!-- Petal 1 Top -->
+      <path d="M 0,0 C -5,-8 -4,-15 0,-18 C 4,-15 5,-8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 2 Right -->
+      <path d="M 0,0 C 8,-5 15,-4 18,0 C 15,4 8,5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 3 Bottom -->
+      <path d="M 0,0 C 5,8 4,15 0,18 C -4,15 -5,8 0,0 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Petal 4 Left -->
+      <path d="M 0,0 C -8,5 -15,4 -18,0 C -15,-4 -8,-5 0,0 Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.5" />
+      <!-- Center Eye -->
+      <circle cx="0" cy="0" r="1.8" fill="#FFFBEB" stroke="#93C5FD" stroke-width="0.4" />
+    </g>
+  
+    </g>
+  </g>
+</svg>
